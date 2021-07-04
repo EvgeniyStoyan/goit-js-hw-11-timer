@@ -55,7 +55,7 @@ class CountdownTimer {
 }
 
 const countdownTimer = new CountdownTimer({
-  onTick: new Date('July 04, 2021 13:42:00').getTime(),
+  onTick: new Date('July 04, 2022 13:42:00').getTime(),
 });
 
 countdownTimer.start();
